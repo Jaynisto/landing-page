@@ -1,0 +1,15 @@
+html {
+    flex-direction: column;
+    font-family:  Arial, sans-serif, monospace;
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgb(196, 184, 167);
+
+}
+
+.Container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 200px;
+}
